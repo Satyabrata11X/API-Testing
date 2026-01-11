@@ -1,0 +1,13 @@
+package com.Online_BookStore.Satya;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SatyaApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SatyaApplication.class, args);
+	}
+
+}
